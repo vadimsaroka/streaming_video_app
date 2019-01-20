@@ -1,0 +1,27 @@
+{
+  "streams": [
+    {
+      "title": "Vadim",
+      "description": "123",
+      "id": 80
+    },
+    {
+      "title": "My stream",
+      "description": "This is the super stream",
+      "userId": "116623085180543136170",
+      "id": 81
+    },
+    {
+      "title": "My stream",
+      "description": "This is the super stream",
+      "userId": "116623085180543136170",
+      "id": 82
+    },
+    {
+      "title": "Vadim",
+      "description": "Saroka",
+      "userId": "116623085180543136170",
+      "id": 83
+    }
+  ]
+}
